@@ -57,4 +57,4 @@ Then open http://localhost:7860 in your browser.
 
 ## License
 
-Apache 2.0 (same as Qwen-Image-Edit-2511 model)
+Check Qwen/Qwen-Image-Edit-2511 page
