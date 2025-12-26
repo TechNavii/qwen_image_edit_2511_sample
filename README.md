@@ -14,7 +14,6 @@ A Gradio-based GUI for the Qwen-Image-Edit-2511 model, optimized for Apple Silic
 - Python 3.10+
 - macOS with Apple Silicon (M1/M2/M3) or NVIDIA GPU
 - ~20GB disk space for model download
-- 16GB+ RAM recommended
 
 ## Installation
 
