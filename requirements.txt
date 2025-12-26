@@ -1,0 +1,8 @@
+torch
+torchvision
+gradio
+pillow
+git+https://github.com/huggingface/diffusers
+transformers
+accelerate
+sentencepiece

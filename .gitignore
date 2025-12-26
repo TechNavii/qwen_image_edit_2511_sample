@@ -1,0 +1,38 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Model cache (Hugging Face models)
+*.bin
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+.cache/
+~/.cache/huggingface/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Output images
+*.png
+*.jpg
+*.jpeg
+!example_images/
